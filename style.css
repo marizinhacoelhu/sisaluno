@@ -1,0 +1,26 @@
+*{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: #a23381;
+    padding: 50px;
+  }
+ .tudo{
+    display: flex;
+    background-color: black;
+    flex-direction: column;
+    margin-bottom: 10px;
+    align-self: flex-start;
+ } 
+ 
+ .titulo{
+    font-size: large;
+    text-align: center;
+    font-size: 40px;
+ }
+ 
+
+
+
+  
